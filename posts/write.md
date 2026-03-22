@@ -4,7 +4,6 @@ publishedAt: "2024-12-02"
 summary: ""
 tag: "write"
 ---
-
 In high school I was a "bad" writer. I dreaded writing. Over the years I've been an unfulfilled consumer of books and information. I've realized that I need to think for myself and writing is the best way to do it. Desperate for a solution, I consumed an oceans worth of information on online writing.
 
 There are no recipes to be a writer. I couldn't afford to pay for a writing course. These are my learnings so you don't have to waste your time. 
