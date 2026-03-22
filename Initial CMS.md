@@ -1,2 +1,1 @@
-
-Using MD as a CMS.
+I'm updating my website to start using .md files hosted on GitHub as a CMS. 
