@@ -1,3 +1,7 @@
+---
+publishedAt: 2026-03-22
+title: AI use
+---
 As of March 22, 2026 this is how I use AI.
 
 ---
