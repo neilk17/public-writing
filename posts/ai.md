@@ -1,10 +1,12 @@
 ---
-publishedAt: 2026-03-22
+publishedAt: 2026-11-24
 title: AI use
 ---
-As of March 22, 2026 this is how I use AI.
+As of November 24, 2026 this is how I use AI.
 
 ---
-For querying I use Chat GPT, Claude, Grok and Gemini. But I haven't found a good way to consolidate all of them. I also tried using OpenClaw but wasn't really happy with it.
+Most of what I do runs through Grok, Grok Bot and Claude.
 
-For programming I use Claude with Tmux, Cursor and Codex.
+For programming I use Claude. I tried Codex for a while and it was good, I just don't need it anymore. I also tried OpenCode and T3 Code.
+
+I also use Paper, which is more of a harness.
